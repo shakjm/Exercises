@@ -1,0 +1,5 @@
+Exercise 1
+
+Creating a simple Neural Network based on 2 inputs, 3 hidden layers and 2 outputs.
+
+Weights are trained using backpropogation to achieve the best accuracy.

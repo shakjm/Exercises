@@ -4,7 +4,7 @@ Related Deep learning + Machine Learning exercises
 Exercises that are done are listed as below.
 
 1. KNN Classifier based on Adrian Rosebrock's Deep Learning textbook, with adjustments done to fit own files. (KNN-Classifier)
-2. Neural Network (Simple 2input, 3 hidden layers and 2 output model) with backpropogation training.
+2. Neural Network (Simple 2input, 3 hidden layers and 2 output model) with backpropogation training. (Lost the Reference, will update)
 
 
 # Tips for beginners like myself (Research Student with zero experience in Machine Learning)
